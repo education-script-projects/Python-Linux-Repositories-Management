@@ -5,5 +5,7 @@ Linux işletim sistemleri için geliştirilmiş ve python dili ile yazılmışd�
 Programın Özellileri :
 
 (1) Repositories Update
+
 (2) Repositories Upgrade
+
 (3) Repositories Install
