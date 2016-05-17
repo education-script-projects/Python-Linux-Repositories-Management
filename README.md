@@ -9,3 +9,5 @@ Programın Özellileri :
 (2) Repositories Upgrade
 
 (3) Repositories Install
+
+(4) Repositories Autoremove
