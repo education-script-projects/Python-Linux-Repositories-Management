@@ -11,6 +11,9 @@ def upgrade():
 
 def install():
 	os.system("apt-get install")
+	
+def autoremove():
+	os.system("apt-get autoremove")
 
 repositories_management_ico = """
 ############################################################
@@ -31,6 +34,7 @@ islemler_ico = """
 (1) Repositories Update
 (2) Repositories Upgrade
 (3) Repositories Install
+(4) Repositories Autoremove
 """
 
 print islemler_ico
@@ -39,7 +43,12 @@ islem = input("Yapılcak işlem numarasını giriniz : ")
 
 if islem == 1:
 	update()
-if islem == 2:
+	
+elif islem == 2:
 	upgrade()
-if islem == 3:
+	
+elif islem == 3:
 	install()
+
+elif islem == 4:
+	autoremove()
