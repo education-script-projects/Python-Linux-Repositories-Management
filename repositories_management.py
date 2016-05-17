@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 
 import os
+import sys
 
 def update():
 	os.system("apt-get update")
@@ -52,3 +53,10 @@ elif islem == 3:
 
 elif islem == 4:
 	autoremove()
+
+else:
+	if islem != 1 and 2 and 3 and 4:  
+		print star
+		hata_mesaji = "Gerçersiz işlem numarsı girdiniz. Tekrar deneyin.";
+		print hata_mesaji
+		print star
