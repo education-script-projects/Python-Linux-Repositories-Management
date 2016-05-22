@@ -16,5 +16,4 @@ gerçekteştiren bir araçdır.
 
 Video : https://www.youtube.com/watch?v=juB7G-jqjf8
 
-Kaynak Kod : https://github.com/ismailtasdelen/Python-Linux-Repositories-Manage-
-ment
+Kaynak Kod : https://github.com/ismailtasdelen/Python-Linux-Repositories-Management
