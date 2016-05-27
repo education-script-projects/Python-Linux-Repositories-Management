@@ -6,13 +6,13 @@ gerçekteştiren bir araçdır.
 
 # Programın Özellileri :
 
-(1) Repositories Update
+* (1) Repositories Update
 
-(2) Repositories Upgrade
+* (2) Repositories Upgrade
 
-(3) Repositories Install
+* (3) Repositories Install
 
-(4) Repositories Autoremove
+* (4) Repositories Autoremove
 
 Video : https://www.youtube.com/watch?v=juB7G-jqjf8
 
